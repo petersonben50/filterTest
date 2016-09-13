@@ -2,4 +2,5 @@ dataEdited/
 dataRaw/
 mothur.*.logfile
 .R*
-
+current_files.summary
+notes_16STaxAss.md
